@@ -1,6 +1,6 @@
 # Fullstack-2023 🏫
 
-|  Part1  |  |
+|  Part1              |
 | ---        | ---    |
 | Exercise   | Status |
 | ---        | ---    |
