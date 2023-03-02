@@ -1,8 +1,8 @@
 # Fullstack-2023 🏫
 
 |  Part1 🎓  |         |
-| Exercise   | Status  |
 | :---       | :---    |
+| Exercise   | Status  |
 | courseinfo | ✔️     |
 | unicafe    | ✔️     |
 | anecdotes  |         |
