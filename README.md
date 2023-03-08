@@ -5,7 +5,7 @@
 | Exercise   | Status  |
 | courseinfo | ✔️     |
 | unicafe    | ✔️     |
-| anecdotes  |         |
+| anecdotes  | ✔️       |
 |  Part 2 🎓  |         |
 | Exercise   | Status  |
 |  Part 3 🎓  |         |
