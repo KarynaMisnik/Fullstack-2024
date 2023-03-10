@@ -8,6 +8,9 @@
 | anecdotes  | ✔️       |
 |  Part 2 🎓  |         |
 | Exercise   | Status  |
+| courseinfo | ✔️     |
+| countries    |    |
+| phonebook  |        |
 |  Part 3 🎓  |         |
 | Exercise   | Status  |
 |  Part 4 🎓  |         |
