@@ -45,137 +45,137 @@ Fundamentals of Web apps
 
 ## Part 1: Introduction to React
 
-Introduction to React
+⚫ Introduction to React
 
-Javascript
+⚫ Javascript
 
-Component state, event handlers
+⚫ Component state, event handlers
 
-A more complex state, debugging React apps
+⚫ A more complex state, debugging React apps
 
 ## Part 2: Communicating with server
 
-Rendering a collection, modules
+⚫ Rendering a collection, modules
 
-Forms
+⚫ Forms
 
-Getting data from server
+⚫ Getting data from server
 
-Altering data in server
+⚫ Altering data in server
 
-Adding styles to React app
+⚫ Adding styles to React app
 
 ## Part 3: Programming a server with NodeJS and Express
 
-Node.js and Express
+⚫ Node.js and Express
 
-Deploying app to internet
+⚫ Deploying app to internet
 
-Saving data to MongoDB
+⚫ Saving data to MongoDB
 
-Validation and ESLint
+⚫ Validation and ESLint
 
 ## Part 4: Testing Express servers, user administration
 
-Structure of backend application, introduction to testing
+⚫ Structure of backend application, introduction to testing
 
-Testing the backend
+⚫ Testing the backend
 
-User administration
+⚫ User administration
 
-Token authentication
+⚫ Token authentication
 
 ## Part 5: Testing React apps, custom hooks
 
-Login in frontend
+⚫ Login in frontend
 
-props.children and proptypes
+⚫ props.children and proptypes
 
-Testing React apps
+⚫ Testing React apps
 
-End to end -testing
+⚫ End to end -testing
 
 ## Part 6: State management with Redux
 
-Flux-architecture and Redux
+⚫ Flux-architecture and Redux
 
-Many reducers
+⚫ Many reducers
 
-Communicating with server in a redux application
+⚫ Communicating with server in a redux application
 connect
 
 ## Part 7: React router, styling app with CSS and webpack
 
-React-router
+⚫ React-router
 
-Custom hooks
+⚫ Custom hooks
 
-More about styles
+⚫ More about styles
 
-Webpack
+⚫ Webpack
 
-Class components, E2E-testing
+⚫ Class components, E2E-testing
 
 ## Part 8: GraphQL
 
-GraphQL-server
+⚫ GraphQL-server
 
-React and GraphQL
+⚫ React and GraphQL
 
-Database and user administration
+⚫ Database and user administration
 
-Login and updating the cache
+⚫ Login and updating the cache
 
-Fragments and subscriptions
+⚫ Fragments and subscriptions
 
 ## Part 9: Typescript
 
-Background and Introduction
+⚫ Background and Introduction
 
-First Steps with Typescript
+⚫ First Steps with Typescript
 
-Typing express app
+⚫ Typing express app
 
-React with types
+⚫ React with types
 
-Grande Finale: Patientor
+⚫ Grande Finale: Patientor
 
-Legacy Patientor
+⚫ Legacy Patientor
 
 ## Part 10: React Native
 
-Introduction to React Native
+⚫ Introduction to React Native
 
-React Native basics
+⚫ React Native basics
 
-Communicating with server
+⚫ Communicating with server
 
-Testing and extending our application 
+⚫ Testing and extending our application 
 
 ## Part 11: CI/CD
 
-Introduction to CI/CD
+⚫ Introduction to CI/CD
 
-Getting started with GitHub Actions
+⚫ Getting started with GitHub Actions
 
-Deployment
+⚫ Deployment
 
-Keeping green
+⚫ Keeping green
 
-Expanding Further
+⚫ Expanding Further
 
 ## Part 12: Containers
 
-Introduction to Containers
+⚫ Introduction to Containers
 
-Building and configuring environments
+⚫ Building and configuring environments
 
-Basics of Orchestration
+⚫ Basics of Orchestration
 
 ## Part 13: Using relational databases
 
-Using relational databases with Sequelize
+⚫ Using relational databases with Sequelize
 
-Join tables and queries
+⚫ Join tables and queries
 
-Migrations, many-to-many relationships
+⚫ Migrations, many-to-many relationships
