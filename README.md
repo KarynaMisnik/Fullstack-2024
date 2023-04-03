@@ -39,9 +39,9 @@
 
 ## Part 0: Fundamentals of Web apps
 
-General info
+⚫ General info
 
-Fundamentals of Web apps
+⚫ Fundamentals of Web apps
 
 ## Part 1: Introduction to React
 
