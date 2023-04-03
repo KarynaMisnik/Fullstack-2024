@@ -138,6 +138,10 @@ Typing express app
 
 React with types
 
+Grande Finale: Patientor
+
+Legacy Patientor
+
 ## Part 10: React Native
 
 Introduction to React Native
@@ -147,3 +151,31 @@ React Native basics
 Communicating with server
 
 Testing and extending our application 
+
+## Part 11: CI/CD
+
+Introduction to CI/CD
+
+Getting started with GitHub Actions
+
+Deployment
+
+Keeping green
+
+Expanding Further
+
+## Part 12: Containers
+
+Introduction to Containers
+
+Building and configuring environments
+
+Basics of Orchestration
+
+## Part 13: Using relational databases
+
+Using relational databases with Sequelize
+
+Join tables and queries
+
+Migrations, many-to-many relationships
