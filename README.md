@@ -1,4 +1,6 @@
 # Fullstack-2023 🏫
+<a href="https://fullstackopen.com/en/#course-contents">Link to Full Stack Open Course</a> 
+
 
 |  Part 1 🎓  |         |
 | :---       | :---    |
