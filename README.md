@@ -1,16 +1,16 @@
-# Fullstack-2023 🏫
+# Fullstack-2024 🏫
 <a href="https://fullstackopen.com/en/#course-contents">Link to Full Stack Open Course</a> 
 
 
 |  Part 1 🎓  |         |
 | :---       | :---    |
 | Exercise   | Status  |
-| courseinfo | ✔️     |
-| unicafe    | ✔️     |
-| anecdotes  | ✔️       |
+| courseinfo |    |
+| unicafe    |     |
+| anecdotes  |       |
 |  Part 2 🎓  |         |
 | Exercise   | Status  |
-| courseinfo | ✔️     |
+| courseinfo |     |
 | countries    |    |
 | phonebook  |        |
 |  Part 3 🎓  |         |
