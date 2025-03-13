@@ -1,4 +1,4 @@
-# Fullstack-2024 🏫
+# Fullstack-2025 🏫
 <a href="https://fullstackopen.com/en/#course-contents">Link to Full Stack Open Course</a> 
 
 
